@@ -15,9 +15,11 @@ l                 - Lists all available bookmarks
 
 ##Sample Usage
 
+```bash
 cd C:\users\manoj\Desktop
 s desktop
 cd C:\users\manoj
 s home
 g desktop
-ll
+l
+```
